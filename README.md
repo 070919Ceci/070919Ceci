@@ -1,8 +1,8 @@
 ## Olá eu sou a Hugo Souza, Estudante FRONT-END - SENAI
 <div align="center">
       <a href="https://github.com/070919Ceci">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api?username=070919Ceci&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=070919Ceci&layout=compact&langs_count=7&theme=dark"/>
+      <img height="120em" src="https://github-readme-stats.vercel.app/api?username=070919Ceci&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=070919Ceci&layout=compact&langs_count=7&theme=dark"/>
  </div>
   
   
