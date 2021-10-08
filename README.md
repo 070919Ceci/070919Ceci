@@ -1,4 +1,16 @@
-## Olá eu sou a Hugo Souza, Estudante FRONT-END - SENAI
+## Olá eu sou a Hugo Souza, Estudante FRONT-END - SENAI :call_me_hand:
+
+
+
+### Sobre mim
+
+- 👨‍💻 Procurando a primeira Oportunidade
+- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistema e estudante FRONT-END no SENAI :grinning:
+- 🎯 Interesse:  HTML, CSS, JavaScript, Angular e Docker .
+
+
+
+
 <div align="center">
       <a href="https://github.com/070919Ceci">
       <img height="120em" src="https://github-readme-stats.vercel.app/api?username=070919Ceci&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
