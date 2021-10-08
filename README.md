@@ -5,7 +5,7 @@
 ### Sobre mim
 
 - 👨‍💻 Procurando a primeira Oportunidade
-- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistema e estudante FRONT-END no SENAI :grinning:
+- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas e  FRONT-END no SENAI :grinning:
 - 🎯 Interesse:  HTML, CSS, JavaScript, Angular e Docker .
 
 
