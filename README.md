@@ -1,4 +1,4 @@
-## Olá eu sou a Hugo Souza, Estudante FRONT-END - SENAI :call_me_hand:
+## Olá eu sou  Hugo Souza, Estudante FRONT-END - SENAI :call_me_hand:
 
 
 
