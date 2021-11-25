@@ -6,7 +6,7 @@
 
 - 👨‍💻 A procura do primeiro emprego como Desenvolvedor! :office:
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIASSELVI e  FRONT-END no SENAI :grinning:
-- 🎯 Interesse:  HTML, CSS, JavaScript, Angular.
+- 🎯 Interesse:  HTML, CSS, JavaScript, Angular, BootStrap.
 
 
 
